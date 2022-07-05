@@ -4,6 +4,9 @@
 # 2022-07-11
 * https://www.sinchew.com.my/20220703/%E9%A9%AC%E6%96%B0%E8%B7%A8%E5%A2%83%E5%BE%B7%E5%A3%AB%E6%94%B6%E8%B4%B9-711%E8%B5%B7%E6%AD%A3%E5%BC%8F%E8%B0%83%E6%B6%A8/
 
+# 2020-07-05
+* beer/liquor increase 8-10%  youtube.com/watch?v=aav9sx44EHQ
+
 
 # 2022-07-04
 * https://www.orientaldaily.com.my/news/east-malaysia/2022/07/04/496799
