@@ -6,6 +6,8 @@
 
 
 # 2022-07-07
+* mas flight luggage increase from 5usd/kg (22.15myr) to 8usd/kg (35.44myr) or +60%
+  * youtube.com/watch?v=UV2hDMqgHGc
 
 
 # 2022-07-06
