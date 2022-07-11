@@ -7,6 +7,7 @@
 # 2022-07-10
 * religious josstick increase 5-8%, lantern oil 30%
   * youtube.com/watch?v=x75BB0Umt-0
+  * youtube.com/watch?v=6L6w6XF7x20
 
 
 # 2022-07-07
