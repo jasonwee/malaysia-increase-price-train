@@ -1,6 +1,10 @@
 # malaysia-increase-price-train
 
 
+# 2022-07-21
+* basic fried kueh teow increased from 7 to 9 or 29% increased
+  * https://www.google.com/maps/place/Restoran+Tien+Tien+Lai/@3.11724,101.5870642,20.5z/data=!4m12!1m6!3m5!1s0x31cc4e9c243030d3:0x8ef60113d9d3b77b!2sDoggy+Bag+Malaysia!8m2!3d3.11668!4d101.587012!3m4!1s0x31cc4f7e3cfbfed5:0x94c79e2e88224f94!8m2!3d3.1172563!4d101.5871766
+
 # 2022-07-18
 * wedding cost increase 5-50%
   * youtube.com/watch?v=Pj-cKXiwx74
