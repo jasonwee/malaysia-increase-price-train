@@ -4,6 +4,7 @@
 # 2022-07-22
 * price for everything increased
   * youtube.com/watch?v=IuGNtKAmsOU
+  * https://www.sinchew.com.my/20220722/%E5%B7%B2%E4%B8%8A%E7%BD%91%E2%88%95%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC%E6%9D%82%E9%A5%AD%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%EF%BC%81%E5%A4%A7%E9%A9%AC6%E6%9C%88%E9%80%9A%E8%86%A8%E7%8E%87%E6%89%AC3/
 
 # 2022-07-21
 * basic fried kueh teow increased from 7 to 9 or 29% increased
