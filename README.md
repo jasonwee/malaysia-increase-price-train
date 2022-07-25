@@ -1,6 +1,11 @@
 # malaysia-increase-price-train
 
 
+
+# 2022-07-25
+* car spare parts, accessories and labour increase 10-25%
+  * https://www.youtube.com/watch?v=CmEu4tBV414
+
 # 2022-07-22
 * price for everything increased
   * youtube.com/watch?v=IuGNtKAmsOU
@@ -49,6 +54,7 @@
 
 # 2022-07-03
 * aircon increase 9-15%
+  * https://www.youtube.com/watch?v=CmEu4tBV414
 * ppl reported that medical insurance premium increase from 70-125%
 
 # 2022-07-01
