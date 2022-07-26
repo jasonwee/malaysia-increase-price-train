@@ -2,6 +2,10 @@
 
 
 
+# 2022-07-26
+* nylon made product (eg. flag) increased by 15%
+  * youtube.com/watch?v=Lw85DcFp8Ss
+
 # 2022-07-25
 * car spare parts, accessories and labour increase 10-25%
   * https://www.youtube.com/watch?v=CmEu4tBV414
