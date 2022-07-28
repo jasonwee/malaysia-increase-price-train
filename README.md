@@ -1,6 +1,8 @@
 # malaysia-increase-price-train
 
-
+# 2022-07-28
+  * air selangor increase 0.20 per cubic meter start august 1st 2022
+    https://www.orientaldaily.com.my/news/central/2022/07/28/501999
 
 # 2022-07-26
 * nylon made product (eg. flag) increased by 15%
