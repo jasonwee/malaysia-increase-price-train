@@ -6,6 +6,7 @@
 # 2022-07-28
   * air selangor increase 0.20 per cubic meter start august 1st 2022
     https://www.orientaldaily.com.my/news/central/2022/07/28/501999
+    https://www.youtube.com/watch?v=C1YhdY8c-9s
 
 # 2022-07-26
 * nylon made product (eg. flag) increased by 15%
