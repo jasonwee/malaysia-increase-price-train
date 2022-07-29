@@ -1,5 +1,8 @@
 # malaysia-increase-price-train
 
+# 2022-07-29
+  * car insurance increase 430.80 to 481 or 11%
+
 # 2022-07-28
   * air selangor increase 0.20 per cubic meter start august 1st 2022
     https://www.orientaldaily.com.my/news/central/2022/07/28/501999
