@@ -1,5 +1,10 @@
 # malaysia-increase-price-train
 
+
+# 2022-08-17
+* moon cake increase 10%
+  * https://www.winrayland.com/2022/08/moon-cake.html
+
 # 2022-07-29
   * car insurance increase 430.80 to 481 or 11%
 
