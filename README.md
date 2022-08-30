@@ -1,5 +1,8 @@
 # malaysia-increase-price-train
 
+# 2022-09-01
+* gardenia increase price
+  * https://ringgitplus.com/en/blog/personal-finance-news/prices-of-some-gardenia-products-to-increase-from-1-september.html
 
 # 2022-08-17
 * moon cake increase 10%
